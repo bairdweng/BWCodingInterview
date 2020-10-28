@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "hello">
+      <FileRef
+         location = "group:03_01_DuplicationInArray.playground">
+      </FileRef>
+      <FileRef
+         location = "group:03_02_DuplicationInArrayNoEdit.playground">
+      </FileRef>
+      <FileRef
+         location = "group:04_FindInPartiallySortedMatrix.playground">
+      </FileRef>
+      <FileRef
+         location = "group:05_ReplaceSpaces.playground">
+      </FileRef>
+      <FileRef
+         location = "group:06_PrintListInReversedOrder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:07_ ConstructBinaryTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:08_NextNodeInBinaryTrees.playground">
+      </FileRef>
+      <FileRef
+         location = "group:09_QueueWithTwoStacks.playground">
+      </FileRef>
+      <FileRef
+         location = "group:10_Fibonacci.playground">
+      </FileRef>
+      <FileRef
+         location = "group:11_MinNumberInRotatedArray.playground">
+      </FileRef>
+      <FileRef
+         location = "group:12_StringPathInMatrix.playground">
+      </FileRef>
+      <FileRef
+         location = "group:13_RobotMove.playground">
+      </FileRef>
+      <FileRef
+         location = "group:14_CuttingRope.playground">
+      </FileRef>
+      <FileRef
+         location = "group:15_NumberOf1InBinary.playground">
+      </FileRef>
+      <FileRef
+         location = "group:16_Power.playground">
+      </FileRef>
+      <FileRef
+         location = "group:17_Print1ToMaxOfNDigits.playground">
+      </FileRef>
+      <FileRef
+         location = "group:18_01_DeleteNodeInList.playground">
+      </FileRef>
+      <FileRef
+         location = "group:18_02_DeleteDuplicatedNode.playground">
+      </FileRef>
+      <FileRef
+         location = "group:19_RegularExpressionsMatching.playground">
+      </FileRef>
+      <FileRef
+         location = "group:20_NumericStrings.playground">
+      </FileRef>
+      <FileRef
+         location = "group:21_ReorderArray.playground">
+      </FileRef>
+      <FileRef
+         location = "group:22_KthNodeFromEnd.playground">
+      </FileRef>
+      <FileRef
+         location = "group:23_EntryNodeInListLoop.playground">
+      </FileRef>
+      <FileRef
+         location = "group:24_ReverseList.playground">
+      </FileRef>
+      <FileRef
+         location = "group:25_MergeSortedLists.playground">
+      </FileRef>
+      <FileRef
+         location = "group:26_SubstructureInTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:27_MirrorOfBinaryTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:28_SymmetricalBinaryTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:29_PrintMatrix.playground">
+      </FileRef>
+      <FileRef
+         location = "group:30_MinInStack.playground">
+      </FileRef>
+      <FileRef
+         location = "group:31_StackPushPopOrder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:32_01_PrintTreeFromTopToBottom.playground">
+      </FileRef>
+      <FileRef
+         location = "group:32_02_PrintTreesInLines.playground.playground">
+      </FileRef>
+      <FileRef
+         location = "group:32_03_PrintTreesInZigzag.playground">
+      </FileRef>
+      <FileRef
+         location = "group:33_SquenceOfBST.playground">
+      </FileRef>
+      <FileRef
+         location = "group:34_PathInTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:35_CopyComplexList.playground">
+      </FileRef>
+      <FileRef
+         location = "group:36_ConvertBinarySearchTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:37_SerializeBinaryTrees.playground">
+      </FileRef>
+      <FileRef
+         location = "group:38_StringPermutation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:39_MoreThanHalfNumber.playground">
+      </FileRef>
+      <FileRef
+         location = "group:40_KLeastNumbers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:41_StreamMedian.playground">
+      </FileRef>
+      <FileRef
+         location = "group:42_GreatestSumOfSubarrays.playground">
+      </FileRef>
+      <FileRef
+         location = "group:43_NumberOf1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:44_DigitsInSequence.playground">
+      </FileRef>
+      <FileRef
+         location = "group:45_SortArrayForMinNumber.playground">
+      </FileRef>
+      <FileRef
+         location = "group:46_TranslateNumbersToStrings.playground">
+      </FileRef>
+      <FileRef
+         location = "group:47_MaxValueOfGifts.playground">
+      </FileRef>
+      <FileRef
+         location = "group:48_LongestSubstringWithoutDup.playground">
+      </FileRef>
+      <FileRef
+         location = "group:49_UglyNumber.playground">
+      </FileRef>
+      <FileRef
+         location = "group:50_01_FirstNotRepeatingChar.playground">
+      </FileRef>
+      <FileRef
+         location = "group:50_02_FirstCharacterInStream.playground">
+      </FileRef>
+      <FileRef
+         location = "group:51_InversePairs.playground">
+      </FileRef>
+      <FileRef
+         location = "group:52_FirstCommonNodesInLists.playground">
+      </FileRef>
+      <FileRef
+         location = "group:53_01_NumberOfK.playground">
+      </FileRef>
+      <FileRef
+         location = "group:53_02_MissingNumber.playground">
+      </FileRef>
+      <FileRef
+         location = "group:53_03_IntegerIdenticalToIndex.playground">
+      </FileRef>
+      <FileRef
+         location = "group:54_KthNodeInBST.playground">
+      </FileRef>
+      <FileRef
+         location = "group:55_01_TreeDepth.playground">
+      </FileRef>
+      <FileRef
+         location = "group:55_02_BalancedBinaryTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:56_01_NumbersAppearOnce.playground">
+      </FileRef>
+      <FileRef
+         location = "group:56_02_NumberAppearingOnce.playground">
+      </FileRef>
+      <FileRef
+         location = "group:57_01_TwoNumbersWithSum.playground">
+      </FileRef>
+      <FileRef
+         location = "group:57_02_ContinuousSquenceWithSum.playground">
+      </FileRef>
+      <FileRef
+         location = "group:58_01_ReverseWordsInSentence.playground">
+      </FileRef>
+      <FileRef
+         location = "group:58_02_LeftRotateString.playground">
+      </FileRef>
+      <FileRef
+         location = "group:59_01_MaxInSlidingWindow.playground">
+      </FileRef>
+      <FileRef
+         location = "group:59_02_QueueWithMax.playground">
+      </FileRef>
+      <FileRef
+         location = "group:60_DicesProbability.playground">
+      </FileRef>
+      <FileRef
+         location = "group:61_ContinousCards.playground">
+      </FileRef>
+      <FileRef
+         location = "group:62_LastNumberInCircle.playground">
+      </FileRef>
+      <FileRef
+         location = "group:63_MaximalProfit.playground">
+      </FileRef>
+      <FileRef
+         location = "group:64_Accumulate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:65_AddTwoNumbers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:66_ConstuctArray.playground">
+      </FileRef>
+      <FileRef
+         location = "group:67_StringToInt.playground">
+      </FileRef>
+      <FileRef
+         location = "group:68_CommonParentInTree.playground">
+      </FileRef>
+   </Group>
+</Workspace>
